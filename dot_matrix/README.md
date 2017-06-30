@@ -1,0 +1,1 @@
+My dot matrix uses 24*24, and i create it myself. Be free to use that, though there only one character.
