@@ -19,7 +19,7 @@ def display(txt,size,save_name):
 	"""
 	display(txt,large,save_name)
 	example:
-	>>>python display.py liu 2 5.png
+	>>>python display.py ./npy/liu 2 5.png
 	this will show a double sized 刘
 	and will save it in '5.png'
 	"""
